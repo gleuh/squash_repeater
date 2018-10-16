@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'squash_ruby', :git => 'https://github.com/gleuh/SquareSquash-ruby.git', :tag => '3.0.0'
+gem 'squash_ruby', :git => 'https://github.com/gleuh/SquareSquash-ruby.git', :tag => 'v2.0.1'
 
 # Specify your gem's dependencies in squash_repeater-ruby.gemspec
 gemspec
